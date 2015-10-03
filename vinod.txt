@@ -29,5 +29,3 @@ git branch [branch name] - creates a new branch [branch name]
 git checkout [branch name] - switches to branch [branch name]
 
 git merge [branchname] - merge changes on [branchname] into current branch. do a git checkout to the receiving branch before merging
-
-git checkout [commit version] - revert back to changes in that version
