@@ -17,3 +17,9 @@ git log -  Shows us all the commits that were made
 git log --oneline  - shows one liners of all commits and revisionsit
 
 git diff - shows us what has changed between our working directory and staging area
+
+git branch - gives a list of all branches in repo
+
+git branch [branch name] - creates a new branch [branch name]
+
+git checkout [branch name] - switches to branch [branch name]
