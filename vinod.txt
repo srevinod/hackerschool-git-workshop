@@ -1,0 +1,5 @@
+pwd - present working directory
+ls - list directories
+cd [directory name]- change directory to [directory name]
+mkdir [directory name] - make new folder with name [directory name]
+touch [file.extension]- create new file [file.extension]
