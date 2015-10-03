@@ -30,4 +30,12 @@ git checkout [branch name] - switches to branch [branch name]
 
 git merge [branchname] - merge changes on [branchname] into current branch. do a git checkout to the receiving branch before merging
 
-git checkout [commit version] - revert back to changes in that version
+git checkout [commit-id] - revert back to changes in that version
+
+git revert --no-edit [commit id] - Reverses commits made in that commit
+note : you can revert a revert and bring back the original version before first revert
+
+git reset --hard  - delete whatever is in working directory and bring latest commit in git
+
+
+
