@@ -14,4 +14,6 @@ git commit -m 'Message'  -commits changes into repository
 
 git log -  Shows us all the commits that were made
 
-git log --oneline  - shows one liners of all commits and revisions
+git log --oneline  - shows one liners of all commits and revisionsit
+
+git diff - shows us what has changed between our working directory and staging area
