@@ -13,3 +13,5 @@ git add [file]  - tells git to start tracking a specific file
 git commit -m 'Message'  -commits changes into repository
 
 git log -  Shows us all the commits that were made
+
+git log --oneline  - shows one liners of all commits and revisions
