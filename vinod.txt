@@ -3,3 +3,13 @@ ls - list directories
 cd [directory name]- change directory to [directory name]
 mkdir [directory name] - make new folder with name [directory name]
 touch [file.extension]- create new file [file.extension]
+
+git init  - use to create a new git repo
+
+git status   -  tell us status of working directory
+
+git add [file]  - tells git to start tracking a specific file
+
+git commit -m 'Message'  -commits changes into repository
+
+git log -  Shows us all the commits that were made
